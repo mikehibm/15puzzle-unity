@@ -1,8 +1,202 @@
 fileFormatVersion: 2
 guid: f9f32fdb4bc7744849a33427aedb8702
 ModelImporter:
-  serializedVersion: 18
+  serializedVersion: 19
   fileIDToRecycleName:
+    100000: SimpleAvatarBody
+    100002: SimpleAvatarBody.001
+    100004: SimpleAvatarBody.002
+    100006: SimpleAvatarBody.003
+    100008: SimpleAvatarBody.004
+    100010: SimpleAvatarBody.005
+    100012: SimpleAvatarBody.006
+    100014: SimpleAvatarBody.007
+    100016: SimpleAvatarBody.008
+    100018: SimpleAvatarBody.009
+    100020: SimpleAvatarBody.010
+    100022: SimpleAvatarBody.011
+    100024: SimpleAvatarBody.012
+    100026: SimpleAvatarBody.013
+    100028: SimpleAvatarBody.014
+    100030: SimpleAvatarBody.015
+    100032: SimpleAvatarBody.016
+    100034: SimpleAvatarBody.017
+    100036: SimpleAvatarBody.018
+    100038: SimpleAvatarBody.019
+    100040: SimpleAvatarBody.020
+    100042: SimpleAvatarBody.021
+    100044: SimpleAvatarBody.022
+    100046: SimpleAvatarBody.023
+    100048: SimpleAvatarBody.024
+    100050: SimpleAvatarBody.025
+    100052: SimpleAvatarBody.026
+    100054: SimpleAvatarBody.027
+    100056: SimpleAvatarBody.028
+    100058: SimpleAvatarBody.029
+    100060: SimpleAvatarBody.030
+    100062: SimpleAvatarBody.031
+    100064: SimpleAvatarBody.032
+    100066: SimpleAvatarBody.033
+    100068: SimpleAvatarBody.034
+    100070: SimpleAvatarBody.035
+    100072: SimpleAvatarBody.036
+    100074: SimpleAvatarBody.037
+    100076: SimpleAvatarBody.038
+    100078: SimpleAvatarBody.039
+    100080: SimpleAvatarBody.040
+    100082: SimpleAvatarBody.041
+    100084: SimpleAvatarBody.042
+    100086: SimpleAvatarBody.043
+    100088: SimpleAvatarBody.046
+    100090: SimpleAvatarBody.047
+    100092: SimpleAvatarBody.048
+    100094: SimpleAvatarBodyRim
+    100096: //RootNode
+    400000: SimpleAvatarBody
+    400002: SimpleAvatarBody.001
+    400004: SimpleAvatarBody.002
+    400006: SimpleAvatarBody.003
+    400008: SimpleAvatarBody.004
+    400010: SimpleAvatarBody.005
+    400012: SimpleAvatarBody.006
+    400014: SimpleAvatarBody.007
+    400016: SimpleAvatarBody.008
+    400018: SimpleAvatarBody.009
+    400020: SimpleAvatarBody.010
+    400022: SimpleAvatarBody.011
+    400024: SimpleAvatarBody.012
+    400026: SimpleAvatarBody.013
+    400028: SimpleAvatarBody.014
+    400030: SimpleAvatarBody.015
+    400032: SimpleAvatarBody.016
+    400034: SimpleAvatarBody.017
+    400036: SimpleAvatarBody.018
+    400038: SimpleAvatarBody.019
+    400040: SimpleAvatarBody.020
+    400042: SimpleAvatarBody.021
+    400044: SimpleAvatarBody.022
+    400046: SimpleAvatarBody.023
+    400048: SimpleAvatarBody.024
+    400050: SimpleAvatarBody.025
+    400052: SimpleAvatarBody.026
+    400054: SimpleAvatarBody.027
+    400056: SimpleAvatarBody.028
+    400058: SimpleAvatarBody.029
+    400060: SimpleAvatarBody.030
+    400062: SimpleAvatarBody.031
+    400064: SimpleAvatarBody.032
+    400066: SimpleAvatarBody.033
+    400068: SimpleAvatarBody.034
+    400070: SimpleAvatarBody.035
+    400072: SimpleAvatarBody.036
+    400074: SimpleAvatarBody.037
+    400076: SimpleAvatarBody.038
+    400078: SimpleAvatarBody.039
+    400080: SimpleAvatarBody.040
+    400082: SimpleAvatarBody.041
+    400084: SimpleAvatarBody.042
+    400086: SimpleAvatarBody.043
+    400088: SimpleAvatarBody.046
+    400090: SimpleAvatarBody.047
+    400092: SimpleAvatarBody.048
+    400094: SimpleAvatarBodyRim
+    400096: //RootNode
+    2300000: SimpleAvatarBody
+    2300002: SimpleAvatarBody.001
+    2300004: SimpleAvatarBody.002
+    2300006: SimpleAvatarBody.003
+    2300008: SimpleAvatarBody.004
+    2300010: SimpleAvatarBody.005
+    2300012: SimpleAvatarBody.006
+    2300014: SimpleAvatarBody.007
+    2300016: SimpleAvatarBody.008
+    2300018: SimpleAvatarBody.009
+    2300020: SimpleAvatarBody.010
+    2300022: SimpleAvatarBody.011
+    2300024: SimpleAvatarBody.012
+    2300026: SimpleAvatarBody.013
+    2300028: SimpleAvatarBody.014
+    2300030: SimpleAvatarBody.015
+    2300032: SimpleAvatarBody.016
+    2300034: SimpleAvatarBody.017
+    2300036: SimpleAvatarBody.018
+    2300038: SimpleAvatarBody.019
+    2300040: SimpleAvatarBody.020
+    2300042: SimpleAvatarBody.021
+    2300044: SimpleAvatarBody.022
+    2300046: SimpleAvatarBody.023
+    2300048: SimpleAvatarBody.024
+    2300050: SimpleAvatarBody.025
+    2300052: SimpleAvatarBody.026
+    2300054: SimpleAvatarBody.027
+    2300056: SimpleAvatarBody.028
+    2300058: SimpleAvatarBody.029
+    2300060: SimpleAvatarBody.030
+    2300062: SimpleAvatarBody.031
+    2300064: SimpleAvatarBody.032
+    2300066: SimpleAvatarBody.033
+    2300068: SimpleAvatarBody.034
+    2300070: SimpleAvatarBody.035
+    2300072: SimpleAvatarBody.036
+    2300074: SimpleAvatarBody.037
+    2300076: SimpleAvatarBody.038
+    2300078: SimpleAvatarBody.039
+    2300080: SimpleAvatarBody.040
+    2300082: SimpleAvatarBody.041
+    2300084: SimpleAvatarBody.042
+    2300086: SimpleAvatarBody.043
+    2300088: SimpleAvatarBody.046
+    2300090: SimpleAvatarBody.047
+    2300092: SimpleAvatarBody.048
+    2300094: SimpleAvatarBodyRim
+    3300000: SimpleAvatarBody
+    3300002: SimpleAvatarBody.001
+    3300004: SimpleAvatarBody.002
+    3300006: SimpleAvatarBody.003
+    3300008: SimpleAvatarBody.004
+    3300010: SimpleAvatarBody.005
+    3300012: SimpleAvatarBody.006
+    3300014: SimpleAvatarBody.007
+    3300016: SimpleAvatarBody.008
+    3300018: SimpleAvatarBody.009
+    3300020: SimpleAvatarBody.010
+    3300022: SimpleAvatarBody.011
+    3300024: SimpleAvatarBody.012
+    3300026: SimpleAvatarBody.013
+    3300028: SimpleAvatarBody.014
+    3300030: SimpleAvatarBody.015
+    3300032: SimpleAvatarBody.016
+    3300034: SimpleAvatarBody.017
+    3300036: SimpleAvatarBody.018
+    3300038: SimpleAvatarBody.019
+    3300040: SimpleAvatarBody.020
+    3300042: SimpleAvatarBody.021
+    3300044: SimpleAvatarBody.022
+    3300046: SimpleAvatarBody.023
+    3300048: SimpleAvatarBody.024
+    3300050: SimpleAvatarBody.025
+    3300052: SimpleAvatarBody.026
+    3300054: SimpleAvatarBody.027
+    3300056: SimpleAvatarBody.028
+    3300058: SimpleAvatarBody.029
+    3300060: SimpleAvatarBody.030
+    3300062: SimpleAvatarBody.031
+    3300064: SimpleAvatarBody.032
+    3300066: SimpleAvatarBody.033
+    3300068: SimpleAvatarBody.034
+    3300070: SimpleAvatarBody.035
+    3300072: SimpleAvatarBody.036
+    3300074: SimpleAvatarBody.037
+    3300076: SimpleAvatarBody.038
+    3300078: SimpleAvatarBody.039
+    3300080: SimpleAvatarBody.040
+    3300082: SimpleAvatarBody.041
+    3300084: SimpleAvatarBody.042
+    3300086: SimpleAvatarBody.043
+    3300088: SimpleAvatarBody.046
+    3300090: SimpleAvatarBody.047
+    3300092: SimpleAvatarBody.048
+    3300094: SimpleAvatarBodyRim
     4300000: SimpleAvatarBody.048
     4300002: SimpleAvatarBody.047
     4300004: SimpleAvatarBody.046
@@ -50,6 +244,8 @@ ModelImporter:
     4300088: SimpleAvatarBody.003
     4300090: SimpleAvatarBody.002
     4300092: SimpleAvatarBody.001
+    4300094: SimpleAvatarBody
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -57,6 +253,7 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
+    resampleRotations: 1
     optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 
@@ -64,16 +261,16 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     animationCompression: 1
-    animationRotationError: .5
-    animationPositionError: .5
-    animationScaleError: .5
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
     clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .00999999978
+    globalScale: 0.01
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
@@ -90,24 +287,25 @@ ModelImporter:
     useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 60
-    splitTangentsAcrossUV: 1
     normalImportMode: 0
-    tangentImportMode: 1
+    tangentImportMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
     human: []
     skeleton: []
-    armTwist: .5
-    foreArmTwist: .5
-    upperLegTwist: .5
-    legTwist: .5
-    armStretch: .0500000007
-    legStretch: .0500000007
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 1
+  humanoidOversampling: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
